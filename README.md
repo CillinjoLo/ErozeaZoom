@@ -28,4 +28,5 @@ Update By CillinjoLo Now, Support CN server 5.18 version
 
 
 Download Link:https://github.com/CillinjoLo/ErozeaZoom/releases
+
 下载链接：

@@ -27,6 +27,5 @@ Update By CillinjoLo Now, Support CN server 5.18 version
 目前由西林觉罗更新中，已支持国服5.18版本
 
 
-Download Link:https://github.com/CillinjoLo/ErozeaZoom/releases
+Download Link（下载链接：）:https://github.com/CillinjoLo/ErozeaZoom/releases
 
-下载链接：

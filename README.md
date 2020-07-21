@@ -22,9 +22,9 @@ Base on https://github.com/menphina/ErozeaZoom
 基于该项目制作
 
 
-Update By CillinjoLo Now, Support CN server 5.18 version
+Update By CillinjoLo Now, Support CN server 5.2 version
 
-目前由西林觉罗更新中，已支持国服5.18版本
+目前由西林觉罗更新中，已支持国服5.2版本
 
 
 Download Link（下载链接：）:https://github.com/CillinjoLo/ErozeaZoom/releases

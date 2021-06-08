@@ -24,7 +24,7 @@ Base on https://github.com/menphina/ErozeaZoom
 
 Update By CillinjoLo Now, Support CN server 5.3 version
 
-目前由西林觉罗更新中，已支持国服5.3版本
+目前由西林觉罗更新中，已支持国服5.45版本
 
 
 Download Link（下载链接：）:https://github.com/CillinjoLo/ErozeaZoom/releases

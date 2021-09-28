@@ -12,9 +12,9 @@ Allow adjustment of camera zoom and field of vision beyond what the game normall
 允许玩家调节摄像机最大缩放距离以超过正常的游戏视野
 
 
-Works for DX9 and DX11.
+Only work for DX11.
 
-支持在DX9和DX11模式下工作
+仅支持在DX11模式下工作
 
 
 Base on https://github.com/menphina/ErozeaZoom
